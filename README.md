@@ -1,9 +1,8 @@
 # About Me:
  Aspiring Backend Developer with a strong foundation in Java, Spring Boot, and MySQL, passionate about building scalable and efficient server
-side applications. Experienced in designing RESTful APIs, implementing authentication/authorization with Spring Security (JWT), and working
- with layered architectures. Skilled in problem-solving, database design, and writing clean, maintainable code. Eager to apply technical expertise in
- real-world projects, contribute to impactful soware solutions, and grow into a proficient full-stack developer by continuously learning modern
- technologies like React and cloud deployment.
+side applications. Eager to apply technical expertise in
+ real-world projects and grow into a proficient full-stack developer by continuously learning modern
+ technologies.
 
 
 ## Socials:
